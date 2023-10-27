@@ -1,2 +1,2 @@
 # suirik
-Suirik1106
+Suirik1106 Domain hijacking
